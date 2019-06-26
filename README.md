@@ -11,17 +11,21 @@
 ### Open Platform
 | チームコード | チーム名 | 所属 |
 |:-|:-|:-|
-| AHOP-xx | Team Name | Univ. |
+| AHOP-01 | O.I.T. Trial | 大阪工業大学 |
 
 ### Education
 | チームコード | チーム名 | 所属 |
 |:-|:-|:-|
-| AHEDU-xx | Team Name | Univ. |
+| AHEDU-01 | SKUBA-Jr | Kasetsart University (Thailand) |
+| AHEDU-02 | ODENS | 大阪電気通信大学 |
+| AHEDU-03 | HappyRobot | 金沢工業大学　出村研究室 |
+| AHEDU-04 | Ri-one | 立命館大学　情報理工学部プロジェクト団体 |
+| AHEDU-05 | SOBITS | 創価大学 崔研究室 |
 
 ### Simulation
 | チームコード | チーム名 | 所属 |
 |:-|:-|:-|
-| AHSIM-xx | Team Name | Univ. |
+| AHSIM-01 | SOBITS | 創価大学 崔研究室 |
 
 
 
