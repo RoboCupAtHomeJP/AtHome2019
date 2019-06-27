@@ -28,5 +28,5 @@
 |:-|:-|:-|
 | AHSIM-01 | SOBITS | 創価大学 崔研究室 |
 
-
-
+# お知らせ
+ルールについては[こちら](https://github.com/RoboCupAtHomeJP/Rule2019)のリポジトリを御覧ください．
