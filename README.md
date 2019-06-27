@@ -3,10 +3,11 @@
 
 ## 参加チーム
 
-### Demestic Standard Platform
+### Domestic Standard Platform
 | チームコード | チーム名 | 所属 |
 |:-|:-|:-|
 | AHDSP-xx | Team Name | Univ. |
+| AHDSP-01 | AISL-TUT | 豊橋技術科学大学 |
 
 ### Open Platform
 | チームコード | チーム名 | 所属 |
