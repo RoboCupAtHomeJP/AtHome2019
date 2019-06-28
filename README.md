@@ -8,11 +8,13 @@
 |:-|:-|:-|
 | AHDSP-xx | Team Name | Univ. |
 | AHDSP-01 | AISL-TUT | 豊橋技術科学大学 |
+| AHDSP-02 | Hibikino-Musashi@Home | 九州工業大学 |
 
 ### Open Platform
 | チームコード | チーム名 | 所属 |
 |:-|:-|:-|
 | AHOP-01 | O.I.T. Trial | 大阪工業大学 |
+| AHOP-02 | Hibikino-Musashi@Home | 九州工業大学 |
 
 ### Education
 | チームコード | チーム名 | 所属 |
@@ -22,6 +24,7 @@
 | AHEDU-03 | HappyRobot | 金沢工業大学　出村研究室 |
 | AHEDU-04 | Ri-one | 立命館大学　情報理工学部プロジェクト団体 |
 | AHEDU-05 | SOBITS | 創価大学 崔研究室 |
+| AHEDU-06 | Edu Hibikino-Musashi@Home | 九州工業大学 |
 
 ### Simulation
 | チームコード | チーム名 | 所属 |
