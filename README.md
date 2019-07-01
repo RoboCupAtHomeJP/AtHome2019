@@ -6,9 +6,9 @@
 ### Domestic Standard Platform
 | チームコード | チーム名 | 所属 |
 |:-|:-|:-|
-| AHDSP-xx | Team Name | Univ. |
 | AHDSP-01 | AISL-TUT | 豊橋技術科学大学 |
 | AHDSP-02 | Hibikino-Musashi@Home | 九州工業大学 |
+| AHDSP-03 | OIT and RITS(変更予定) | 大阪工業大学　、立命館大学　2大学連合|
 
 ### Open Platform
 | チームコード | チーム名 | 所属 |
