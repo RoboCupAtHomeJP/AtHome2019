@@ -30,6 +30,7 @@
 | チームコード | チーム名 | 所属 |
 |:-|:-|:-|
 | AHSIM-01 | SOBITS | 創価大学 崔研究室 |
+| AHSIM-02 | MindGr@spers | 大阪工業大学，立命館大学，岡山県立大学 |
 
 # お知らせ
 ルールについては[こちら](https://github.com/RoboCupAtHomeJP/Rule2019)のリポジトリを御覧ください．
