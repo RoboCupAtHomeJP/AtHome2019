@@ -21,6 +21,7 @@
 |:-|:-|:-|
 | AHOP-01 | O.I.T. Trial | 大阪工業大学 |
 | AHOP-02 | Hibikino-Musashi@Home | 九州工業大学 |
+| AHOP-03 | KIT Happy Robot | 金沢工業大学 |
 
 ### Education
 | チームコード | チーム名 | 所属 |
