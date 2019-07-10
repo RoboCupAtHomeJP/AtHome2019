@@ -24,6 +24,7 @@
 | AHOP-01 | O.I.T. Trial | 大阪工業大学 |
 | AHOP-02 | Hibikino-Musashi@Home | 九州工業大学 |
 | AHOP-03 | KIT Happy Robot | 金沢工業大学 |
+| AHOP-04 | KameRider OPL | Nankai University (China) |
 
 ### Education
 | チームコード | チーム名 | 所属 |
@@ -34,6 +35,8 @@
 | AHEDU-04 | Ri-one | 立命館大学　情報理工学部プロジェクト団体 |
 | AHEDU-05 | SOBITS | 創価大学 崔研究室 |
 | AHEDU-06 | Edu Hibikino-Musashi@Home | 九州工業大学 |
+| AHEDU-07 | Team Innokai | Universiti Teknologi Malaysia (Malaysia) |
+| AHEDU-08 | KameRider EDU | Nankai University (China) |
 
 ### Simulation
 | チームコード | チーム名 | 所属 |
