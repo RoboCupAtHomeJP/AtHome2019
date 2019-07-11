@@ -32,7 +32,7 @@
 | AHEDU-01 | SKUBA-Jr | Kasetsart University (Thailand) |
 | AHEDU-02 | ODENS | 大阪電気通信大学 |
 | AHEDU-03 | HappyRobot | 金沢工業大学　出村研究室 |
-| AHEDU-04 | Ri-one | 立命館大学　情報理工学部プロジェクト団体 |
+| AHEDU-04 | Ri-one&Duckers | 立命館大学　情報理工学部プロジェクト団体 |
 | AHEDU-05 | SOBITS | 創価大学 崔研究室 |
 | AHEDU-06 | Edu Hibikino-Musashi@Home | 九州工業大学 |
 | AHEDU-07 | Team Innokai | Universiti Teknologi Malaysia (Malaysia) |
