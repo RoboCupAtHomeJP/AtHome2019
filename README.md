@@ -21,9 +21,9 @@ DSPLでは，WRS2020に近いアリーナが用意され，
 ![スケジュール](TimeTable_y5.png)
 
 ## 名称リスト
-- 人物名
-- フィールド
-- オブジェクト
+- [Name List](name_list.md)
+- Location
+- Object list
 
 
 ## 参加申し込み
