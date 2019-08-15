@@ -22,9 +22,9 @@ DSPLでは，WRS2020に近いアリーナが用意され，
 
 ## 名称リスト
 - [Name List](name_list.md)
-- Location
-- Object list
-
+- [Location](ArinaLayout.pdf)
+- Object list ([OPL](OPL_ObjectList_Known&Alike.pdf), [OPL PredefinedLocation](OPL_PredefinedLocation.pdf), [DSPL](DSPL_ObjectList.pdf), [DSPL PredefinedLocation](DSPL_PredefinedLocation.pdf))
+- [Basic Function (OPL)](BasicFunction.pdf)
 
 ## 参加申し込み
 以下に参加申込みの情報を掲載しております．
