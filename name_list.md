@@ -1,7 +1,7 @@
 # Name List
 
-|---|---|
 | Female | Male |
+|:---|:---|
 | Lily | Alex |
 | Natalia | Steve |
 | Jennifer | Robert |
