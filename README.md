@@ -1,10 +1,19 @@
 # ロボカップ＠ホーム2019
 ロボカップジャパンオープン2019ながおか ＠ホームリーグの情報発信用リポジトリです．
 
+## 8/16 11:14 Update
+* [ArinaLayout.pdf](ArinaLayout.pdf): Basic Functionaitiesの情報を追加しました．
+* [DSPL_YCB_Orientation_HardToManipulate.pdf](DSPL_YCB_Orientation_HardToManipulate.pdf): DSPL Tidy用の物体のOrientationとHard to Manipulateのリストを公開しました．
+
+## 名称リスト
+- [Name List](name_list.md)
+- [Location](ArinaLayout.pdf)
+- Object list ([OPL](OPL_ObjectList_Known&Alike.pdf), [OPL PredefinedLocation](OPL_PredefinedLocation.pdf), [DSPL](DSPL_ObjectList.pdf), [DSPL PredefinedLocation](DSPL_PredefinedLocation.pdf))
+- [Basic Function (OPL)](BasicFunction.pdf)
+
 ## パドックの設置場所について
 本リーグでは，パドックはアリーナとは別の階（3F）にあります．
 詳細は[こちら](robot_hannyu_y1.pdf)をご確認ください．
-
 
 ## ロボットの搬入経路について
 本リーグにおけるロボットの搬入経路についてです．詳細は[こちら](robot_hannyu_y1.pdf)をご確認ください．
@@ -19,12 +28,6 @@ DSPLでは，WRS2020に近いアリーナが用意され，
 ## セットアップデイ・競技日のスケジュール
 本リーグでは，下記の予定での競技実施を予定しております．[PDFリンク](TimeTable_y5.pdf)
 ![スケジュール](TimeTable_y5.png)
-
-## 名称リスト
-- [Name List](name_list.md)
-- [Location](ArinaLayout.pdf)
-- Object list ([OPL](OPL_ObjectList_Known&Alike.pdf), [OPL PredefinedLocation](OPL_PredefinedLocation.pdf), [DSPL](DSPL_ObjectList.pdf), [DSPL PredefinedLocation](DSPL_PredefinedLocation.pdf))
-- [Basic Function (OPL)](BasicFunction.pdf)
 
 ## 参加申し込み
 以下に参加申込みの情報を掲載しております．
