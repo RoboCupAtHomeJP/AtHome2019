@@ -1,6 +1,10 @@
 # ロボカップ＠ホーム2019
 ロボカップジャパンオープン2019ながおか ＠ホームリーグの情報発信用リポジトリです．
 
+## 8/16 20:46 Update
+* [0817_TimeTable_y6.pdf](TimeTable/0817_TimeTable_y6.pdf): 8/17のタイムテーブルを公開しました．
+* [0816_Score.pdf](Score/0816_Score.pdf): 8/16現在の暫定スコアを公開しました．
+
 ## 8/16 11:14 Update
 * [ArinaLayout.pdf](ArinaLayout.pdf): Basic Functionaitiesの情報を追加しました．
 * [DSPL_YCB_Orientation_HardToManipulate.pdf](DSPL_YCB_Orientation_HardToManipulate.pdf): DSPL Tidy用の物体のOrientationとHard to Manipulateのリストを公開しました．
@@ -26,8 +30,8 @@ DSPLでは，WRS2020に近いアリーナが用意され，
 よろしくお願いいたします．
 
 ## セットアップデイ・競技日のスケジュール
-本リーグでは，下記の予定での競技実施を予定しております．[PDFリンク](TimeTable_y5.pdf)
-![スケジュール](TimeTable_y5.png)
+本リーグでは，下記の予定での競技実施を予定しております．[PDFリンク](TimeTable/TimeTable_y5.pdf)
+![スケジュール](TimeTable/TimeTable_y5.png)
 
 ## 参加申し込み
 以下に参加申込みの情報を掲載しております．
