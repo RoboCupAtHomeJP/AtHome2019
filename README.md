@@ -30,8 +30,8 @@ DSPLでは，WRS2020に近いアリーナが用意され，
 よろしくお願いいたします．
 
 ## セットアップデイ・競技日のスケジュール
-本リーグでは，下記の予定での競技実施を予定しております．[PDFリンク](TimeTable/TimeTable_y5.pdf)
-![スケジュール](TimeTable/TimeTable_y5.png)
+本リーグでは，下記の予定での競技実施を予定しております．[PDFリンク](TimeTable/TimeTable_y6.pdf)
+![スケジュール](TimeTable/TimeTable_y6.png)
 
 ## 参加申し込み
 以下に参加申込みの情報を掲載しております．
