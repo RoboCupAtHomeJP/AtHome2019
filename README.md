@@ -1,6 +1,11 @@
 # ロボカップ＠ホーム2019
 ロボカップジャパンオープン2019ながおか ＠ホームリーグの情報発信用リポジトリです．
 
+## 8/20 20:47 Update
+* [score_detailed.pdf](Score/score_detailed.pdf): 最終スコア（詳細版）を公開しました．
+* [score_simple.pdf](Score/score_simple.pdf): 最終スコア（簡易版）を公開しました．
+* Simulationリーグの最終スコアはお待ちください．
+
 ## 8/17 19:36 Update
 * [TimeTable_y6.pdf](TimeTable/TimeTable_y6.pdf): Finalの実施時間を変更しました．
 * [Final_Pre.pdf](TimeTable/Final_Pre.pdf): Final練習時間の時間割を公開しました．
